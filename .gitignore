@@ -1,0 +1,7 @@
+assets/*.png
+*.png
+weights/*
+results/*
+*.pyc
+*.JPEG
+testdata/*
